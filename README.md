@@ -1,3 +1,3 @@
-# Vrinda-stor-Data-Analysis
+# Vrinda-store-Data-Analysis
 
-In this Project, we create a Dashboard using Excel functions Complete Data Analytics project for Data Analysts in Excel.
+In this Project, we have created a Data Dashboard using Excel functions vrinda store dataset. 
